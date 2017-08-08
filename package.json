@@ -1,0 +1,19 @@
+{
+  "name": "base-encoder.pddivine",
+  "version": "0.0.0",
+  "description": "A library that encodes to a specified radix.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pddivine/baseEncoder.pddivine.git"
+  },
+  "author": "Patrick Divine",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/pddivine/baseEncoder.pddivine/issues"
+  },
+  "homepage": "https://github.com/pddivine/baseEncoder.pddivine#readme"
+}
